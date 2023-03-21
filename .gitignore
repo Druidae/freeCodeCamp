@@ -3,4 +3,3 @@ venv/
 .pytest_cache/
 boilerplate_budget/
 polygon_area_calculator/
-time_calculator/
