@@ -1,5 +1,4 @@
 venv/
 .idea/
 .pytest_cache/
-boilerplate_budget/
 polygon_area_calculator/
