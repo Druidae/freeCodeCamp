@@ -1,4 +1,4 @@
 venv/
 .idea/
 .pytest_cache/
-polygon_area_calculator/
+probability_calculator/
